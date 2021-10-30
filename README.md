@@ -1,6 +1,6 @@
 ### Third hometask for CSC NLP fall 2021 course.
 
-[Kaggle competition link](https://www.kaggle.com/c/a-pack-of-chips-and-the-company-it-keeps/overview).
+[Kaggle competition link](https://www.kaggle.com/c/a-pack-of-chips-and-the-company-it-keeps/overview)
 
 
 Task overview: predict a binary value for a pair of Russian words, where one means words similarity. 
