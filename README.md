@@ -26,3 +26,5 @@ Data: unlabled ~1.3К pairs.
 
 
 Approach: use LDA for topic modeling and finding out the number of clusters. Vectorize texts using Tf-Idf feutures, drop stopwords and terms that meet less than in 1% of all texts or more than in 75% of texts. Use agglomerative clustering with cosine distance and label pairs according to the cluster ids.  
+
+[Sulution file](tfidf_agglomerative_stopwords.py)
